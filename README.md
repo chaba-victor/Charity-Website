@@ -9,7 +9,7 @@
 
   Ganze is a fully responsive charity website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="#"><strong>➥ Live Demo</strong></a>
+  <a href="https://cheerful-nougat-d39c26.netlify.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
